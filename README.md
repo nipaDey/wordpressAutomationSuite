@@ -241,7 +241,7 @@ This file is an example .env file with dammy information
 ```
 ### 3. Commit the Changes
 ```bash
-  git commit -m "second commit"
+  git commit -m "first commit"
 
 
 ```
